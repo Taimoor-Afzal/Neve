@@ -95,6 +95,7 @@ body {
     background-color: #eef0ed;
     position: fixed;
     width: 100%;
+    z-index: 1000;
 }
 
 .navbar::before {
